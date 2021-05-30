@@ -1,0 +1,8 @@
+body{
+    background-image: linear-gradient(to left bottom, #8cd16b, #1cd09a, #00c9ca, #00bdee, #00abf9, #609ef8, #908fed, #b47eda, #d073c9, #e668b2, #f46198, #fb5f7b);
+}
+h1{
+    width: 50%;
+    font-size: 30px !important;
+    padding: 5px;
+}
